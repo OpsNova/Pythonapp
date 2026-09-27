@@ -1,0 +1,17 @@
+Flask==3.1.2
+Flask==3.1.2
+pandas==2.3.2
+requests==2.32.5
+pip freeze > requirements.txt
+cat requirements.txt
+type requirements.txt
+pip install -r requirements.txt
+pythonapp/
+│
+├── app.py
+├── requirements.txt
+└── README.md
+
+***********************************************************************************************************8888*****************************************************8
+                           This is the place where python demo txt file is created
+ 
